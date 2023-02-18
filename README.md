@@ -1,2 +1,2 @@
-# Curso JS
- Meus arquivos do curso de JavaScript ministrado pelo Curso em Vídeo
+# CursoJS
+ Material do Curso de JavaScripet
